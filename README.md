@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/xUOxeYatzejqwawi4w/giphy.gif)
 
->A ReactNative application that display Tesla vehicle and with there process.
+>A ReactNative application that display Tesla vehicle and with there prices.
 ---
  Using this application assumes that you have your coding environment set up for it to run. If not sure, check out the Setting up enviorment link below under references .
 
