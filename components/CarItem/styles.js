@@ -11,9 +11,13 @@ const styles = StyleSheet.create({
         alignItems: 'center'
     
       },
+      
       title: {
         fontSize: 40,
         fontWeight: '500',
+      },
+     subtitleCTA: {
+    textDecorationLine: 'underline'
       },
       subtitle: {
         fontSize: 16,
