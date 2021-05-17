@@ -5,7 +5,7 @@ import StyledButton from '../styledButton'
 
 const CarItem = (props) => {
 
-    const {name, tagline,taglineCTA, image} = props
+    const { name, tagline, taglineCTA, image } = props.car;
 
     return (
         
