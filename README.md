@@ -9,7 +9,9 @@
 ---
 ### Table Of Content
 
-
+- versions:
+npm   7.13.0
+node   v16.2.0
 
 - [How to use](#How-to-use)
 - [Video Demo](#Video-Demo)
@@ -22,6 +24,7 @@
 
  All command are to be executed in the terminal
 
+ 
 open up prefered code editior
  " to the location you want to clone the project in your local machine  
 
@@ -34,8 +37,11 @@ cd in to the Tesla_Clone_Mobile_App file in your code editior and run the comman
 ```
  For IOS:
   run command "npx react-native run-ios"
+
+  or 
+  run command "n"
  ```
- or 
+ or "npm start"
 ```
  For IOS:
   run command "yarn ios"
@@ -46,6 +52,7 @@ cd in to the Tesla_Clone_Mobile_App file in your code editior and run the comman
  For Andriod:
   run command "npx react-native run-andriod"
  ```
+
 
   ### Video Demo (coming soon)
 - [Link]()
